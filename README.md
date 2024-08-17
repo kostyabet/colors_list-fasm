@@ -1,6 +1,6 @@
 # Color picker
 
-<img src="readme_img/img.png">
+<img src="readme_picks\colors.png" height="250">
 
 ![Static Badge](https://img.shields.io/badge/Flat_Assembler-1.73.32-blue)
 ![Static Badge](https://img.shields.io/badge/Fasm_Editor-2.0-yellow)
